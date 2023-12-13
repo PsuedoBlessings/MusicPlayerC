@@ -1,0 +1,12 @@
+﻿  main.c
+C:\Users\Zvikomborero Masike\Google Drive\School 🏫\4 Year Subjects\Computer Science\Projects\Programming Assignments\Cpts 122\Programming Assignment 2\Programming Assignment 2\main.c(103,19): warning C4013: 'sort_Function' undefined; assuming extern returning int
+  mediafunction.c
+C:\Users\Zvikomborero Masike\Google Drive\School 🏫\4 Year Subjects\Computer Science\Projects\Programming Assignments\Cpts 122\Programming Assignment 2\Programming Assignment 2\mediafunction.c(202,53): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+C:\Users\Zvikomborero Masike\Google Drive\School 🏫\4 Year Subjects\Computer Science\Projects\Programming Assignments\Cpts 122\Programming Assignment 2\Programming Assignment 2\mediafunction.c(202,33): warning C4024: 'fprintf': different types for formal and actual parameter 2
+C:\Users\Zvikomborero Masike\Google Drive\School 🏫\4 Year Subjects\Computer Science\Projects\Programming Assignments\Cpts 122\Programming Assignment 2\Programming Assignment 2\mediafunction.c(430,24): warning C4028: formal parameter 1 different from declaration
+C:\Users\Zvikomborero Masike\Google Drive\School 🏫\4 Year Subjects\Computer Science\Projects\Programming Assignments\Cpts 122\Programming Assignment 2\Programming Assignment 2\mediafunction.c(563,26): warning C4028: formal parameter 1 different from declaration
+C:\Users\Zvikomborero Masike\Google Drive\School 🏫\4 Year Subjects\Computer Science\Projects\Programming Assignments\Cpts 122\Programming Assignment 2\Programming Assignment 2\mediafunction.c(604,19): warning C4047: 'function': 'Node **' differs in levels of indirection from 'Node *'
+C:\Users\Zvikomborero Masike\Google Drive\School 🏫\4 Year Subjects\Computer Science\Projects\Programming Assignments\Cpts 122\Programming Assignment 2\Programming Assignment 2\mediafunction.c(604,15): warning C4024: 'edit_Node': different types for formal and actual parameter 1
+C:\Users\Zvikomborero Masike\Google Drive\School 🏫\4 Year Subjects\Computer Science\Projects\Programming Assignments\Cpts 122\Programming Assignment 2\Programming Assignment 2\mediafunction.c(619,22): warning C4028: formal parameter 1 different from declaration
+  Generating Code...
+  Programming Assignment 2.vcxproj -> C:\Users\Zvikomborero Masike\Google Drive\School 🏫\4 Year Subjects\Computer Science\Projects\Programming Assignments\Cpts 122\Programming Assignment 2\x64\Debug\Programming Assignment 2.exe
